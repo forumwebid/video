@@ -1,0 +1,12 @@
+{
+  "name": "AutoCut AI Video Studio",
+  "description": "Professional short-form video editor powered by Gemini AI for automated scripting, voiceovers, and dynamic editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI_DRIVEN",
+    "VIDEO_EDITING"
+  ]
+}
